@@ -1,0 +1,48 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>SKYLOFT - NEW HORIZONS</title>
+</head>
+
+<body>
+<div id="page">
+		
+<div id="header">
+<ul>
+           	   	<li><a href="#">Home</a></li>
+               	<li><a href="#">Attractions</a></li>
+                <li><a href="#">Resident Services</a></li>
+                <li><a href="#">History</a></li>
+                <li><a href="#">Nook Inc. Statement</a></li>
+            </ul>
+            <h1>SKYLOFT</h1>
+        </div>
+  <div class="dotted_line"></div>
+        <div id="main">
+        
+        	<div class="main_left">
+                <h1>may we meet again, in another life.</h1>
+                <h3>join katt, egbert, kevin, pietro, and the like!</h3>
+            </div>
+            
+           	<div class="main_right">
+                <h2>H2 Text</h2>
+                
+                <p>Skyloft is your new Northern Hemisphere escape! Named for the outcropping of rock which protected Hylians at the beginning of the Legend of Zelda timeline, Skyloft is a veritable utopia. </p>
+
+            </div>
+            
+           	<div class="main_bottom"></div>
+            
+        </div>
+        
+        
+        <div class="dotted_line"></div>
+        <div id="footer">
+      </div>
+        
+        </div>
+</body>
+</html>
+
