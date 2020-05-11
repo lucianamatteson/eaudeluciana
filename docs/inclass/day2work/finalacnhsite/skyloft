@@ -1,48 +1,23 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="style.css" />
-<title>SKYLOFT - NEW HORIZONS</title>
-</head>
-
-<body>
-<div id="page">
-		
-<div id="header">
-<ul>
-           	   	<li><a href="#">Home</a></li>
-               	<li><a href="#">Attractions</a></li>
-                <li><a href="#">Resident Services</a></li>
-                <li><a href="#">History</a></li>
-                <li><a href="#">Nook Inc. Statement</a></li>
-            </ul>
-            <h1>SKYLOFT</h1>
-        </div>
-  <div class="dotted_line"></div>
-        <div id="main">
-        
-        	<div class="main_left">
-                <h1>may we meet again, in another life.</h1>
-                <h3>join katt, egbert, kevin, pietro, and the like!</h3>
-            </div>
-            
-           	<div class="main_right">
-                <h2>H2 Text</h2>
-                
-                <p>Skyloft is your new Northern Hemisphere escape! Named for the outcropping of rock which protected Hylians at the beginning of the Legend of Zelda timeline, Skyloft is a veritable utopia. </p>
-
-            </div>
-            
-           	<div class="main_bottom"></div>
-            
-        </div>
-        
-        
-        <div class="dotted_line"></div>
-        <div id="footer">
-      </div>
-        
-        </div>
-</body>
-</html>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>OBI WORLD</title>
+    </head>
+    <style>
+        body {background-color: rgb(134, 205, 226);}
+        </style>
+        <body>
+         <h4>HELLO THERE</h4> 
+          <P>G E N E R A L  K E N O B I </P>
+            </body>
+            <img srcset="https://www.liveabout.com/thmb/NGKCBlPFJflJddcosbVDyU3bF-o=/300x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP2-IA-60435_R_8x10-56a83bea3df78cf7729d314a.jpg 300w, https://www.liveabout.com/thmb/YATXKENH-frPl1Biiimw0HjqpN0=/417x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP2-IA-60435_R_8x10-56a83bea3df78cf7729d314a.jpg 417w, https://www.liveabout.com/thmb/2u3KMX2XL5AuwxPCIiI0pab2ca8=/534x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP2-IA-60435_R_8x10-56a83bea3df78cf7729d314a.jpg 5000w, https://www.liveabout.com/thmb/e7xfNfn3-pkH28FJvf7WJef6TFA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP2-IA-60435_R_8x10-56a83bea3df78cf7729d314a.jpg 7650w" src="https://www.liveabout.com/thmb/e7xfNfn3-pkH28FJvf7WJef6TFA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP2-IA-60435_R_8x10-56a83bea3df78cf7729d314a.jpg" alt="Ewan McGregor as Obi-Wan Kenobi" data-expand="300">
+            </img>
+            <h1>ANOTHER HAPPY LANDING</h1>
+            <h2>my allegiance is to the republic</h2>
+            <h3>JUST HIGH GROUND TINGZ</h3>
+            <p>obi wan kenobi, later known as ben kenobi following the fall of the republic, was a force-sensitive human male legendary in the time of the clone wars.</p>
+            </body>
+            </html>
